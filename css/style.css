@@ -1,0 +1,108 @@
+.first-container{
+    background-image: linear-gradient(rgba(2,72,108,255), rgba(2,91,135,255), rgba(3,114,169,255));
+}
+
+.logo-img{
+    width: 200px !important;
+    height: 100px;
+    padding: 20px;
+}
+
+.white-heading{
+    color: white;
+}
+
+.main-text{
+    color: white;
+    font-size: 26px;
+    font-weight: 300;
+    margin-top: 16px;
+}
+
+.bi{
+    margin-right: 8px;
+}
+
+input{
+    height: 60px;
+    width: 320px;
+    padding: 6px 12px;
+    margin-bottom: 10px !important;
+}
+
+textarea{
+    width: 320px;
+}
+
+.submit{
+    margin-top: 10px;
+    width: 150px;
+    background-color: #13aff0 !important;
+}
+
+.submit:hover{
+    background-color: #0b7cac !important;
+}
+
+.odd-card-class{
+    background-color: #ffbf00 !important;
+    color: white !important;
+    padding: 10px;
+    top: 0;
+    transition: top ease 0.5s;
+    border-radius: 5px;
+}
+
+.odd-card-class:hover{
+    top: -10px;
+}
+.card-text-class{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.even-card-class{
+    background-color: #013e5b !important;
+    color: white !important;
+    padding: 10px;
+    top: 0;
+    transition: top ease 0.5s;
+    border-radius: 5px;
+}
+
+.even-card-class:hover{
+    top: -10px;
+}
+
+.card-section{
+    background-color: #013e5b;
+    color: white;
+}
+
+.card-section .card{
+    height: 500px;
+}
+
+.card-section .card-img-top{
+    height: 250px;
+}
+
+.card-section .card-title{
+    text-align: center;
+}
+
+.footer-section{
+    background-color: #021D29;
+    color: white;
+}
+
+.btn-red{
+    background-color: red !important;
+    color: white !important;
+}
+
+.footer-contact{
+    background-color: #021D1F !important;
+}
